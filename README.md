@@ -1,4 +1,6 @@
-## Hi there 👋 I'm SeeleZaych, an undergraduate from SJTU.
+## Hi there 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)
 
