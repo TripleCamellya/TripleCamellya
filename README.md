@@ -11,7 +11,8 @@
 
 ### My leetcode:
 
-https://stats.justsong.cn/api/leetcode?username=acrossthewall&cn=true
+![Leetcode CN](https://stats.justsong.cn/api/leetcode?username=acrossthewall&cn=true)
+
 
 #### Contributions
 
