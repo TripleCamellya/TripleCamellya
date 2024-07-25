@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake.svg">
