@@ -1,8 +1,16 @@
 ## Hi there 👋 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
+
+#### My most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My github actities:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SeeleZaych)](https://git.io/streak-stats)
 
+
+#### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake-dark.svg">
