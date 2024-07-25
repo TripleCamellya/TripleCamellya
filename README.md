@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm SeeleZaych, an undergraduate from SJTU.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)
 
 <!--
 **SeeleZaych/SeeleZaych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
