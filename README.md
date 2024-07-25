@@ -14,7 +14,7 @@
 ![Leetcode CN](https://stats.justsong.cn/api/leetcode?username=acrossthewall&cn=true)
 
 
-#### Contributions
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake-dark.svg">
