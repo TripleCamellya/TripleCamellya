@@ -1,6 +1,8 @@
 ## Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SeeleZaych)](https://git.io/streak-stats)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake-dark.svg">
