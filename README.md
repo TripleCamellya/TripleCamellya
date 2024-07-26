@@ -7,7 +7,7 @@
 I'm SeeleZaych, an undergraduate from SJTU.
 
 ### My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel-eta-taupe.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My github actities:
 
