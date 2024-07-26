@@ -13,6 +13,10 @@ I'm SeeleZaych, an undergraduate from SJTU.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SeeleZaych)](https://git.io/streak-stats)
 
+### My Waka Time:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My leetcode:
 
 ![Leetcode CN](https://stats.justsong.cn/api/leetcode?username=acrossthewall&cn=true)
