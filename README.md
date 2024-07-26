@@ -1,6 +1,10 @@
 ## Hi there 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
+<!--
+** [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
+-->
+
+I'm SeeleZaych, an undergraduate from SJTU.
 
 ### My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
