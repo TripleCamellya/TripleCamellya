@@ -15,6 +15,11 @@ I'm SeeleZaych, an undergraduate from SJTU.
 
 ### My Waka Time:
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### My leetcode:
