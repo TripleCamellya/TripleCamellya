@@ -12,7 +12,7 @@ I'm SeeleZaych, an undergraduate from SJTU.
 
 ### My github actities:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SeeleZaych)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SeeleZaych&locale=zh_Hans)](https://git.io/streak-stats)
 
 ### My Waka Time:
 <!--START_SECTION:waka-->
