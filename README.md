@@ -18,11 +18,11 @@ I'm SeeleZaych, an undergraduate from SJTU.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 14 mins   ███████████████▓░░░░░░░░░   62.37 %
-Python           2 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-XML              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Java             5 hrs 24 mins   █████████████████░░░░░░░░   67.91 %
+Python           2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+XML              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
