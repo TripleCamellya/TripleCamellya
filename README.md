@@ -18,10 +18,7 @@ I'm SeeleZaych, an undergraduate from SJTU.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              31 mins         ████████████████▒░░░░░░░░   65.64 %
-Protocol Buffer   12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-protobuf          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-XML               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
