@@ -18,7 +18,10 @@ I'm SeeleZaych, an undergraduate from SJTU.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              14 mins         ███████████████████████▓░   94.06 %
+C                0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
