@@ -18,9 +18,7 @@ I'm SeeleZaych, an undergraduate from SJTU.
 <!--START_SECTION:waka-->
 
 ```txt
-C++           3 hrs 9 mins    ██████████████████████░░░   87.87 %
-C             26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
