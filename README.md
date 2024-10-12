@@ -18,9 +18,10 @@ I'm SeeleZaych, an undergraduate from SJTU.
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 40 mins   ████████████████████████▒   97.25 %
-Go         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python           7 hrs 53 mins   ████████████████████████▓   98.56 %
+Go               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
