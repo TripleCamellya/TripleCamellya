@@ -4,42 +4,16 @@
 ** [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
 -->
 
-I'm SeeleZaych, an undergraduate from SJTU.
+I'm SeeleZaych, an undergraduate from SJTU, and I will continue to pursue a master's degree in IST lab of SJTU.
 
 
-### My most used languages:
-[![Top Langs](https://vercel-eta-taupe.vercel.app/api/top-langs/?username=SeeleZaych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### My github actities:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SeeleZaych&locale=zh_Hans)](https://git.io/streak-stats)
-
-### My Waka Time:
-<!--START_SECTION:waka-->
-
-```txt
-C          2 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.02 %
-Python     2 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   46.34 %
-Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-C++        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-```
-
-<!--END_SECTION:waka-->
-
-### My leetcode:
-
-![Leetcode CN](https://stats.justsong.cn/api/leetcode?username=acrossthewall&cn=true)
+Recently, I have been mainly working on machine learning in the fields of Computer Vision (CV) and Time Series (TS), and I am currently researching Explainable Artificial Intelligence (XAI). Web Serice and Database are also very appealing to me.
 
 
-### Contributions
+I hope to make my own contributions to the community!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SeeleZaych/SeeleZaych/output/github-contribution-grid-snake.svg">
-</picture>
 
+📫 How to reach me: 3175989593@qq.com or acrossthewallfhh@gmail.com
 
 
 <!--
