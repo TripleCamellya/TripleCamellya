@@ -12,13 +12,13 @@ I'm SeeleZaych, an undergraduate from SJTU, and I will continue to pursue a mast
 What I'm studying or interested in:
 
 
-🤖 Machine Learning in CV, TS
+* 🤖 Machine Learning in CV, TS
 
 
-🌐 Web Service
+* 🌐 Web Service
 
 
-📅 Database
+* 📅 Database
 
 
 
