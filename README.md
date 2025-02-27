@@ -4,13 +4,16 @@
 ** [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
 -->
 
-I'm SeeleZaych, an undergraduate from SJTU, and I will continue to pursue a master's degree in IST lab of SJTU.
+I'm SeeleZaych, an undergraduate from SJTU, and I will continue to pursue a master's degree 🎓 in IST lab of SJTU.
 
 
-Recently, I have been mainly working on machine learning in the fields of Computer Vision (CV) and Time Series (TS), and I am currently researching Explainable Artificial Intelligence (XAI). Web Serice and Database are also very appealing to me.
+What I'm studying or interested in:
+🤖 Machine Learning in CV, TS
+🌐 Web Service
+📅 Database
 
 
-I hope to make my own contributions to the community!
+✨ I hope to make my own contributions to the community!
 
 
 📫 How to reach me: 3175989593@qq.com or acrossthewallfhh@gmail.com
