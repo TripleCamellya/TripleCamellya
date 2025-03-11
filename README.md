@@ -4,7 +4,7 @@
 ** [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
 -->
 
-I'm SeeleZaych, an undergraduate from SJTU, and I will continue to pursue a master's degree 🎓 in IST lab of SJTU.
+I'm TripleCamellya, an undergraduate from SJTU, and I will continue to pursue a master's degree 🎓 in IST lab of SJTU.
 
 
 
