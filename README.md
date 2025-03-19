@@ -7,6 +7,7 @@
 I'm TripleCamellya, an undergraduate from SJTU, and I will continue to pursue a master's degree 🎓 in IST lab of SJTU.
 
 
+I hope GSoC can be my start of open source contirbution.
 
 
 What I'm studying or interested in:
